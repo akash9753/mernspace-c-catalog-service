@@ -16,10 +16,6 @@ npm i express-fileupload
 
 npm i -D @types/express-fileupload
 
-Access key AKIAUDL24DG5UM7DPY6V
-
-Secret access key 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
-
 npm i uuid
 
 npm i -D @types/uuid
